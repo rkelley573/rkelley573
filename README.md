@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+My name is Ricky, and I am a 30 year old native Texan. I currently serve as a police officer and as a Captain in the United States Army Reserves.
+
+I grew up with computers in my hands. Taking them apart, putting them together, and troubleshooting since I was about 5 years old. I have always been fascinated by the tech world and love to know how things work. I recently committed to actually learning
+about computer science and programming and have been having a blast. I am currently taking Harvards CS50x and CS50P, and have learned a lot. Eventually I would love to have gathered enough knowledge, skill, and practice to be able to switch careers into
+the programming world.
+
+In my down time I love spending time with my wonderful wife and our newborn daughter and play a ton of video games. I'm always open to connect, answer questions, or listen to any advice from those that came before me. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ricky-kelley/) and shoot me a message!
 <!--
 **rkelley573/rkelley573** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
